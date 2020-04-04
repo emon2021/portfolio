@@ -1,0 +1,10 @@
+/*  Responsive css */
+@media(max-width:768px){
+	
+div#navbarsExampleDefault {
+    background: #343a40;
+    padding: 10px;
+    border-top: 2px solid white;
+} 
+}
+/*  Responsive css end */
